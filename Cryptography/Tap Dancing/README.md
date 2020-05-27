@@ -6,15 +6,14 @@ My friend is trying to teach me to dance, but I am not rhythmically coordinated!
 NOTE: Flag is not in flag format.
 
 ## Penyelesaian
-ini merupakan list dance move `1101111102120222020120111110101222022221022202022211`
+Ini merupakan list dance move `1101111102120222020120111110101222022221022202022211`
 <br> Kode diatas harus kita terjemahkan menjadi kode morse terlebih dahulu dengan ketentuan seperti dibawah ini :
 <br> 0 = spasi (" ")
 <br> 1 = minus (-)
 <br> 2 = titik (.)
 <br> Hasil kode morse dari list dance move yang sudah ditentukan :
 <br> `-- ----- .-. ... . -. ----- - -... ....- `
-<br> Setelah menghasilkan kode morse, kita melakukan konversi dari kode morse menjadi text menggunakan [translator online](https://morsify.net/) dengan hasil seperti gambar dibawah ini
-![]()
+<br> Setelah menghasilkan kode morse, kita melakukan konversi dari kode morse menjadi text menggunakan [translator online](https://morsify.net/), sehingga akan menemukan flagnya.
 
 ## FLAG
 `tjctf{M0RSEN0TB4SE3}`

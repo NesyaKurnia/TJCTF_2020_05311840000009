@@ -38,7 +38,7 @@ Naisyy WriteUp's for TJCTF 2020
 
 ## Reversing
 - Forwarding
-- Chroed Encoder
+- Chord Encoder
 - Gym
 - Bad Python
 - ASMR
