@@ -3,7 +3,7 @@
 ## Soal
 Some typefaces are mysterious, like this one - its origins are an enigma wrapped within a riddle, indeed.
 
-Circles.png
+[Circles.png](https://github.com/NesyaKurnia/TJCTF_2020_05311840000009/blob/master/Cryptography/Circles/Circles.png)
 
 ## Penyelesaian
 Pada gambar diatas terlihat bahwa simbol-simbol tersebut sudah mencerminkan format dari flag yang akan kita cari. Setelah melakukan percobaan, saya menemukan bahwa jenis font yang digunakan pada gambar diatas adalah USF CIRCULAR DESIGN.
