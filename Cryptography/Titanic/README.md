@@ -13,8 +13,8 @@ Yang kita ketahui adalah hash MD5 tersebut berasal dari script film "Titanic".
 hashcat -m 0 hash.txt dictionary.txt
 ```
 - `hash.txt` yang isinya hash MD5 `(e246dbab7ae3a6ed41749e20518fcecd)`
-- `dictionary.txt` merupakan daftar script dari titanic yang sudah dibuat dengan format flag, menggunakan lowercase.
-<br>Tekan enter dan flag akan langsung terlihat
+- [`dictionary.txt`](https://github.com/NesyaKurnia/TJCTF_2020_05311840000009/blob/master/Cryptography/Titanic/dictionary.txt) merupakan daftar script dari titanic yang sudah dibuat dengan format flag, menggunakan lowercase.
+<bR>Langkah selanjutnya, tekan enter dan flag akan langsung terlihat
 
 ## FLAG
 __`tjctf{marlborough's}`__
