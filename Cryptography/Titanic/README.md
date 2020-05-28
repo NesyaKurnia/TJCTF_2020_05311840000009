@@ -17,4 +17,4 @@ hashcat -m 0 hash.txt dictionary.txt
 <br>Tekan enter dan flag akan langsung terlihat
 
 ## FLAG
-`tjctf{marlborough's}`
+__`tjctf{marlborough's}`__

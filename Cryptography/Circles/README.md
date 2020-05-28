@@ -11,4 +11,4 @@ Pada gambar diatas terlihat bahwa simbol-simbol tersebut sudah mencerminkan form
 Dengan menerjemahkan dari font usf circular design menjadi font biasa yang bisa dibaca, maka akan menemukan flagnya
 
 ## FLAG
-`tjctf{B3auT1ful_f0Nt}`
+__`tjctf{B3auT1ful_f0Nt}`__
