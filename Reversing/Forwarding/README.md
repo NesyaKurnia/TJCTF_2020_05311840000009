@@ -7,7 +7,7 @@ It can't be that hard... right?
 ## Penyelesaian
 - Klik _forwarding_ (Ketika diklik forwarding maka akan auto download suatu file)
 - Buka file forwarding yang telah terdownload melalui notepad
-![](https://github.com/NesyaKurnia/TJCTF_2020_05311840000009/blob/master/Reversing/Forwarding/Forwarding.png)
+[forwarding](https://github.com/NesyaKurnia/TJCTF_2020_05311840000009/blob/master/Reversing/Forwarding/Forwarding.png)
 - Flag telah ditemukan pada file tersebut
 
 ## FLAG
