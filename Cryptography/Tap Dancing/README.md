@@ -14,6 +14,7 @@ Ini merupakan _list dance move_ `11011111021202220201201111101012220222210222020
 <br> Hasil kode morse dari list dance move yang sudah ditentukan :
 <br> `-- ----- .-. ... . -. ----- - -... ....- `
 <br> Setelah menghasilkan kode morse, kita melakukan __konversi__ dari kode morse menjadi text menggunakan [translator online](https://morsify.net/), sehingga akan menemukan __flagnya__.
+![](https://github.com/NesyaKurnia/TJCTF_2020_05311840000009/blob/master/Cryptography/Tap%20Dancing/convert.jpg)
 
 ## FLAG
 __`tjctf{M0RSEN0TB4SE3}`__
