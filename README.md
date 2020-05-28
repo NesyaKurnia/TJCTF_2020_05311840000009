@@ -1,8 +1,11 @@
-# TJCTF_2020_05311840000009
->Kadek Nesya Kurniadewi - 05311840000009
->Team : Naisyy
+# TJCTF 2020 - Keamanan Web dan Aplikasi
+```
+Nama      : Kadek Nesya Kurniadewi
+NRP       : 05311840000009
+Nama Team : Naisyy
+```
 
-Naisyy WriteUp's for TJCTF 2020
+# Table of Contents :
 ## Cryptography
 - [Circles](https://github.com/NesyaKurnia/TJCTF_2020_05311840000009/tree/master/Cryptography/Circles)
 - [Speedrunner](https://github.com/NesyaKurnia/TJCTF_2020_05311840000009/tree/master/Cryptography/Speedrunner)
