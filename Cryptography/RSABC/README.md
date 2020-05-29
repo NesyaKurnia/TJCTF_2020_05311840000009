@@ -16,7 +16,8 @@ p = 202049603951664548551555274464815496697
 q =  285934543893985722871321330457714807993
 ```
 3. Selanjutnya adalah menginputkan n, e, c serta p dan q kedalam Ruby Script, seperti gambar dibawah ini :
-![](https://github.com/NesyaKurnia/TJCTF_2020_05311840000009/blob/master/Cryptography/RSABC/code.jpg). Script yang digunakan adalah [solve.rb](https://github.com/NesyaKurnia/TJCTF_2020_05311840000009/blob/master/Cryptography/RSABC/solve.rb)
+![](https://github.com/NesyaKurnia/TJCTF_2020_05311840000009/blob/master/Cryptography/RSABC/code.jpg). 
+<br> Script yang digunakan adalah [solve.rb](https://github.com/NesyaKurnia/TJCTF_2020_05311840000009/blob/master/Cryptography/RSABC/solve.rb)
 
 4. Kemudian jalankan script `solve.rb` menggunakan command seperti dibawah ini :
 ```
