@@ -23,7 +23,7 @@ q =  285934543893985722871321330457714807993
 $ ruby solve.rb
 ```
 5. Outputnya akan tampil seperti dibawah ini :
-![](https://github.com/NesyaKurnia/TJCTF_2020_05311840000009/blob/master/Cryptography/RSABC/output.jpg)
+<br> ![](https://github.com/NesyaKurnia/TJCTF_2020_05311840000009/blob/master/Cryptography/RSABC/output.jpg)
 
 ## FLAG
 __`tjctf{BOLm1QMWi3c}`__
